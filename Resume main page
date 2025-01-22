@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+
+  </head>
+
+  <body>
+    
+    
+    <h1>Nicky</h1>
+    <h3> About me </h3>     
+    <p> Click on these links to find my resume and more about me!</p>
+
+ <h2> <a href="Resume.html"> My Resume...</a></h2>
+   
+    <h2> <a href="Me.html">About Me...</a></h2>
+
+</body>
+</html>
